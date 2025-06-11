@@ -1,0 +1,17 @@
+FILE_NAME Inventory.FIL
+~Table Imported via OpenXML Excel 22-May-2025 13:59:12
+~.22-May-2025 13:59:12 _ IMPORT OPENEXCEL TO Inventory FILE "D:\Kayla Az'Zahra R_12030122140226\Inventory.xlsx" TABLE "Inventory" SERVER "LOCAL" FLAT "D:\Kayla Az'Zahra R_12030122140226\Inventory.FIL" FIELDS "Cost Date","Product Description","Product Number","Quantitiy","Cost per unit","Inventory Cost" END 
+[FILESIZE] 152
+[LASTVIEW] "Inventory"
+[REFRESH] OPENEXCEL FILE "D:\Kayla Az'Zahra R_12030122140226\Inventory.xlsx" TABLE "Inventory" SERVER "LOCAL" FLAT "D:\Kayla Az'Zahra R_12030122140226\Inventory.FIL" FIELDS "Cost Date","Product Description","Product Number","Quantitiy","Cost per unit","Inventory Cost" END
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 135
+Cost_Date                       DATETIME    1  10   PICTURE "yyyy-mm-dd" NATIVE [D]  
+Product_Description             UTF8       11  22   NATIVE [D]  
+Product_Number                  UTF8       33   9   NATIVE [D]  
+Quantitiy                       PRINT      42   2 0 DECIMAL '.' NATIVE [D]  
+Cost_per_unit                   PRINT      44   6 0 DECIMAL '.' NATIVE [D]  
+Inventory_Cost                  PRINT      50   7 0 DECIMAL '.' NATIVE [D]  

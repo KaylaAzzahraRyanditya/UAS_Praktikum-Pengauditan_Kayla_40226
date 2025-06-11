@@ -1,0 +1,23 @@
+FILE_NAME Fixed asset.FIL
+~Table Imported via OpenXML Excel 22-May-2025 13:17:40
+~.22-May-2025 13:18:06 _ IMPORT OPENEXCEL TO Fixed_asset FILE "D:\Kayla Az'Zahra R_12030122140226\Arbutus data Fixed Asset.xlsx" TABLE "Sheet2" SERVER "LOCAL" FLAT "D:\Kayla Az'Zahra R_12030122140226\Fixed asset.FIL" FIELDS "No.","Nama dan spesifikasi","Jenis Aset","Unit","Tanggal Perolehan","Harga Perolehan","Tarif Penyusutan","Akumulasi 2023","Nilai Buku2023","Penyusutan 2024","Akumulasi 2024","Nilai Buku2024" END 
+[FILESIZE] 18
+[LASTVIEW] "Fixed_asset"
+[REFRESH] OPENEXCEL FILE "D:\Kayla Az'Zahra R_12030122140226\Arbutus data Fixed Asset.xlsx" TABLE "Sheet2" SERVER "LOCAL" FLAT "D:\Kayla Az'Zahra R_12030122140226\Fixed asset.FIL" FIELDS "No.","Nama dan spesifikasi","Jenis Aset","Unit","Tanggal Perolehan","Harga Perolehan","Tarif Penyusutan","Akumulasi 2023","Nilai Buku2023","Penyusutan 2024","Akumulasi 2024","Nilai Buku2024" END
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 219
+No                              PRINT       1   2 0 DECIMAL '.' NATIVE [D]  
+Nama_dan_spesifikasi            UTF8        3  29   NATIVE [D]  
+Jenis_Aset                      UTF8       32  15   NATIVE [D]  
+Unit                            PRINT      47   1 0 DECIMAL '.' NATIVE [D]  
+Tanggal_Perolehan               PRINT      48   4 0 DECIMAL '.' NATIVE [D]  
+Harga_Perolehan                 PRINT      52   9 0 DECIMAL '.' NATIVE [D]  
+Tarif_Penyusutan                PRINT      61   5 3 WIDTH 6 DECIMAL '.' NATIVE [D]  
+Akumulasi_2023                  PRINT      66   8 0 DECIMAL '.' NATIVE [D]  
+Nilai_Buku2023                  PRINT      74   9 0 DECIMAL '.' NATIVE [D]  
+Penyusutan_2024                 PRINT      83   9 1 WIDTH 10 DECIMAL '.' NATIVE [D]  
+Akumulasi_2024                  PRINT      92   9 1 WIDTH 10 DECIMAL '.' NATIVE [D]  
+Nilai_Buku2024                  PRINT     101  10 1 WIDTH 11 DECIMAL '.' NATIVE [D]  
